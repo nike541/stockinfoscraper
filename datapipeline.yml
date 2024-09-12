@@ -1,4 +1,4 @@
-name: data-pipeline-workflow
+name: data-pipeline-workflow-2
 
 on: 
    schedule:
